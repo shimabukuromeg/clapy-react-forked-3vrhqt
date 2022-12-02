@@ -1,0 +1,103 @@
+.root {
+  width: 375px;
+  height: 62px;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  background-image: linear-gradient(180deg, #f929cbff 0%, #7b3ee0ff 91%, #8110f2ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  backdrop-filter: blur(40px);
+}
+.frame76 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-end;
+  gap: 8px;
+}
+.maskGroup {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.dSC008701 {
+  position: absolute;
+  left: -4%;
+  right: -4.7379%;
+  top: 0;
+  bottom: 0;
+  width: 21.7476px;
+  height: 20px;
+  background-image:/* webpackIgnore: true */ url('assets/dSC008701.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0.800000011920929px 0px;
+  mask-position: 0.800000011920929px 0px;
+  -webkit-mask-size: 20px 20px;
+  mask-size: 20px 20px;
+}
+.frame74 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 8px;
+}
+.frame71 {
+  width: min-content;
+  height: min-content;
+}
+.shimabukuroMegumi {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 800;
+  font-family: Rounded Mplus 1c, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame72 {
+  width: min-content;
+  height: min-content;
+}
+.unnamed {
+  color: #d9d9d9;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Noto Sans JP, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame73 {
+  width: min-content;
+  height: min-content;
+}
+.about {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 800;
+  font-family: Rounded Mplus 1c, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.keyboardArrowDown {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

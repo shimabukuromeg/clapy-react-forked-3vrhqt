@@ -1,0 +1,36 @@
+.root {
+  width: 300px;
+  height: 300px;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 24px;
+  border-radius: 16px;
+  background-image: linear-gradient(180deg, #4a4f9cff 0%, #9761a9ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  box-shadow: 0px 0px 16px 0px #00000040;
+}
+.about {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Noto Sans JP, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 252px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame65 {
+  width: min-content;
+  height: min-content;
+}
+._60f95161b382b3c00f3b3057_80_ca {
+  width: 180px;
+  height: 180px;
+  background-image:/* webpackIgnore: true */ url('assets/_60f95161b382b3c00f3b3057_80_ca.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
